@@ -17,6 +17,8 @@ var theory_length = theory.length;
 var practise_length = practise.length;
 var motivation_length = motivation.length;
 
+var p = 0;
+
 myButton.onclick = function() {
   setUserName();
 }
@@ -38,6 +40,8 @@ motivationButton.onclick = function() {
 
 function chooseMsg(type) {
   var rand = Math.floor(Math.random()*1000);
+  if (rand == p) rand++;
+  p = rand;
   if (type == 0) {
     return theory[rand%theory_length];
   }
