@@ -11,7 +11,7 @@ var theory = ['Complexity', 'Recursion', 'ADTs', 'Binary Search Trees', 'Balance
 
 var practise = ['Debugging (GDB)', 'Makefiles', 'Random numbers', 'Performance analysis', 'Higher order functions'];
 
-var motivation = ['Work hard', 'Keep it up', 'Good work', 'Doing well', 'Take a break', 'You can do it', 'Drink some water', '20min more', 'Stay awake', 'Comp is great', 'Aim for HD', 'This topic is so exciting'];
+var motivation = ['Work hard', 'Keep it up', 'Good work', 'Doing well', 'Take a break', 'You can do it', 'Drink some water', '20min more', 'Stay awake', 'Comp is great', 'Aim for HD'];
 
 var theory_length = theory.length;
 var practise_length = practise.length;
