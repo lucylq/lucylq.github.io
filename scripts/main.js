@@ -7,7 +7,7 @@ var name = " ";
 
 
 
-var theory = ['Complexity', 'Recursion', 'ADTs', 'Binary Search Trees', 'Balanced Search Trees', 'Splay Trees', 'AVL Trees', '234 Trees', 'Red Black Trees', 'Graphs', 'Graph Properties', 'Graph Representations', 'Graph algorithms', 'Breadth First Search', 'Depth First Search', 'Minimum Spanning Trees', "Kruskal's algorithm", "Prim's algorithm", "Dijkstra's Algorithm", 'Hashing', 'Collision Resolution', 'Heaps', 'Heaps: fixUp, fixDown', 'Tries', 'Sorting', 'Bubble Sort', 'Insertion Sort', 'Merge Sort', 'Quick Sort', 'Shell Sort', 'Bogo Sort', 'Vanilla Quick Sort', 'Median of 3 Quick Sort', 'Selection Sort', 'String Matching', 'Knuth-Morris-Pratt String Matching', 'Boyer-Moore String Matching', 'Huffman Compression'];
+var theory = ['Complexity', 'Recursion', 'ADTs', 'Binary Search Trees', 'Balanced Search Trees', 'Splay Trees', 'AVL Trees', '234 Trees', 'Red Black Trees', 'Graphs', 'Graph Properties', 'Graph Representations', 'Graph algorithms', 'Breadth First Search', 'Depth First Search', 'Minimum Spanning Trees', "Kruskal's algorithm", "Prim's algorithm", "Dijkstra's Algorithm", 'Hashing', 'Collision Resolution', 'Heaps', 'Tries', 'Sorting', 'Bubble Sort', 'Insertion Sort', 'Merge Sort', 'Quick Sort', 'Shell Sort', 'Vanilla Quick Sort', 'Median of 3 Quick Sort', 'Selection Sort', 'String Matching', 'Knuth-Morris-Pratt String Matching', 'Boyer-Moore String Matching', 'Huffman Compression'];
 
 var practise = ['Debugging (GDB)', 'Makefiles', 'Random numbers', 'Performance analysis', 'Higher order functions'];
 
