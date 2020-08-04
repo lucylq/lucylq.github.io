@@ -1,10 +1,16 @@
 let myButton = document.querySelector('button');
 let myHeading = document.querySelector('h1');
 
+var name = " ";
+
 function setUserName() {
-  let myName = prompt('Please enter your name.');
-  localStorage.setItem('name', myName);
-  myHeading.textContent = chooseMsg() + ', ' + myName;
+  if(name == " ") {
+    name = prompt('Please enter your name.');
+    // localStorage.setItem('name', myName);
+    // myHeading.textContent = chooseMsg() + ', ' + myName;
+  }  
+  myHeading.textContent = chooseMsg() + ', ' + name;
+
 }
 
 myButton.onclick = function() {
